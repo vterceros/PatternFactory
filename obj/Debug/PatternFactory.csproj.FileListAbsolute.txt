@@ -1,0 +1,6 @@
+C:\Users\HP\Documents\_MyGit\PatternFactory\bin\Debug\PatternFactory.exe.config
+C:\Users\HP\Documents\_MyGit\PatternFactory\bin\Debug\PatternFactory.exe
+C:\Users\HP\Documents\_MyGit\PatternFactory\bin\Debug\PatternFactory.pdb
+C:\Users\HP\Documents\_MyGit\PatternFactory\obj\Debug\PatternFactory.csprojResolveAssemblyReference.cache
+C:\Users\HP\Documents\_MyGit\PatternFactory\obj\Debug\PatternFactory.exe
+C:\Users\HP\Documents\_MyGit\PatternFactory\obj\Debug\PatternFactory.pdb
